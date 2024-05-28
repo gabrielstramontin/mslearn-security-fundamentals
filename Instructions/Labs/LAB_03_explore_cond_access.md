@@ -43,7 +43,7 @@ In this task you, as the admin, will reset the password for the user Debra Berge
 
 ### Task 2
 
-In this task, you'll go through the process of creating a conditional access policy in Azure AD.
+In this task, you'll go through the process of creating a conditional access policy in Microsoft Entra ID.
 
 1. Open the browser tab to the home page of the Microsoft Entra admin center.   If you previously closed the browser tab, open Microsoft Edge and in the address bar enter **https://entra.microsoft.com** and sign in with the Microsoft 365 admin credentials provided by the ALH.
 
