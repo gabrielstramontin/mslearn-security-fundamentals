@@ -43,7 +43,7 @@ In this task you, as the admin, will reset the password for the user Diego Sicil
 
 ### Task 2
 
-In this task you, as the admin, will assign Diego an Azure AD role in Privileged Identity Management.
+In this task you, as the admin, will assign Diego a Microsoft Entra ID role in Privileged Identity Management.
 
 1. Open the browser tab for the home page of the Microsoft Entra admin center.
 
@@ -108,9 +108,9 @@ In this task you, as Diego Siciliani, will sign in to Microsoft Entra admin cent
 1. You're asked if you want to stay signed in.  Select **Yes**.
 1. The Activate User Administrator window appears.  You're required to enter a reason for the activation.  In the box that appears, enter any reason you want (max of 500 characters), then select **Activate**.
 1. You'll see the status (3 stages of progress), as the activation is processed.
-1. Once the activation is completed you're returned to the My roles | Azure AD roles page, where you'll see a notification stating you have activated a role.  Select **Click here** to view your active roles.  If you notice the end time is different than what was originally configured, select the refresh key on the top of the page (it may take a few minutes to refresh).
+1. Once the activation is completed you're returned to the My roles | Microsoft Entra ID roles page, where you'll see a notification stating you have activated a role.  Select **Click here** to view your active roles.  If you notice the end time is different than what was originally configured, select the refresh key on the top of the page (it may take a few minutes to refresh).
 1. Return to the home page of the Microsoft Entra admin center by selecting **Home** from the left navigation panel. 
-1. As an Azure AD user administrator you can create users and groups, manage licenses, and more. From the left navigation panel, expnad **Identity**, select **Users**, then select **All users**.
+1. As a Microsoft Entra ID user administrator, you can create users and groups, manage licenses, and more. From the left navigation panel, expnad **Identity**, select **Users**, then select **All users**.
 1. From the users list, select **Bianca Pisani**.
 1. From the left navigation panel, select **Licenses**.
 1. Notice how Bianca has no licenses assigned.  From the top of the page, select **+ Assignments**.
@@ -122,4 +122,4 @@ In this task you, as Diego Siciliani, will sign in to Microsoft Entra admin cent
 
 ### Review
 
-In this lab; you, explored PIM.  You, as the admin, configured Diego with user admin privileges for a specified amount of time.  Then you, as Diego, walked through the process of activating the user admin privileges and configuring user settings.  Recall that PIM requires Azure AD Premium P2 licensing.
+In this lab; you, explored PIM.  You, as the admin, configured Diego with user admin privileges for a specified amount of time.  Then you, as Diego, walked through the process of activating the user admin privileges and configuring user settings.  Recall that PIM requires Microsoft Entra ID Premium P2 licensing.
