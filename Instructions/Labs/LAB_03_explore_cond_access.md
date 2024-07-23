@@ -67,7 +67,7 @@ In this task, you'll go through the process of creating a conditional access pol
 
 1. In the field underneath where it says **Select what this policy applies to**, select the down-arrow and note the available options.  Keep the default setting, **Cloud apps**.  Make sure the **Include** tab is underlined.  Select **Select apps**, then underneath where it says **Select**, select **None**.  The window to Select Cloud apps opens.
 
-1. In the search bar, enter **Azure**.  From the search results that appear under the search box, select **Microsoft Admin Portals**, then press **Select** at the bottom of the page.  Notice the warning.  
+1. Select **Microsoft Admin Portals**, then press **Select** at the bottom of the page.  Notice the warning.  
 
 1. Under Conditions, select **0 conditions selected**.  Notice the different options you can configure.  Through the policy, you can control user access based on signals from conditions including: user risk, sign-in risk, device platform, location, client apps, or filter for devices.  Explore these configurable options, but do not set any conditions.
 
