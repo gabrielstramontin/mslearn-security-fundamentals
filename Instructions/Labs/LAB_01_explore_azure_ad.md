@@ -79,7 +79,7 @@ As a subscriber to Microsoft 365 you're already using Microsoft Entra ID (previo
 
     1. To add a license select **+ Assignments** from the top of the main window.
 
-    1. Under Select licenses, select **Office 365 E3** and **Windows 10/11 Enterprise E3** then select the **Save** button on the bottom of the screen. A notification on the top right corner of the screen should show that license assignments succeeded.
+    1. Under Select licenses, select **Microsoft Power Apps for Developer** and **Microsoft Power Automate Free** then select the **Save** button on the bottom of the screen. A notification on the top right corner of the screen should show that license assignments succeeded.
 
     1. Select the **X** on the top right of the screen to close the License assignments window.
 
@@ -106,7 +106,7 @@ In this task, you'll sign in as Sara Perez, for the first time.
 
 6. In the New password field, enter a new password, confirm the password, then select **Sign in**.  Make note of your new password as you will need it for the subsequent lab exercise on SSPR.
 
-7. You should now be successfully signed-in to Microsoft 365.
+7. You should now be successfully signed-in to Sara's Microsoft account.  Note that Sara's licensing that you assigned in the previous task was limited only to Power Automate Free and Power Apps for Developer and did not include E5 licensing.
 
 8. Sign out by selecting the icon on the top right corner of the Microsoft 365 window that is shown as a circle with the letters SP (next to the question mark icon), then selecting **Sign out**, then close the browser.
 

@@ -114,7 +114,7 @@ In this task you, as Diego Siciliani, will sign in to Microsoft Entra admin cent
 1. From the users list, select **Bianca Pisani**.
 1. From the left navigation panel, select **Licenses**.
 1. Notice how Bianca has no licenses assigned.  From the top of the page, select **+ Assignments**.
-1. From the select licenses list, select **Office 365 E3** and **Windows 10 Enterprise E3**.
+1. From the select licenses list, select **Microsoft Power Apps for Developer** and **Microsoft Power Automate Free**.
 1. From the bottom of the page, select **Save**.  You'll see a brief notification on the top right of page indicating licenses were successfully assigned.
 1. Close out of the updated license assignments page, by selecting the **X** on the top right corner of the page.
 1. Sign out by selecting on the user icon next to the email address on the top right corner of the screen and selecting **Sign out**. Then the close all the browser windows.
