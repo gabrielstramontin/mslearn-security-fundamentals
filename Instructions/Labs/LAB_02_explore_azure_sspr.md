@@ -79,7 +79,7 @@ In this task you, as the admin, will add the user you created in the previous la
 
 ### Task 3
 
-In this task you, as user Sara Perez, will go through the registration process for self service password reset.  This task requires that you have access to a mobile device where you can receive text messages or a personal email account that you can access
+In this task you, as user Sara Perez, will go through the registration process for self service password reset.  This task requires that you have access to a mobile device where you can receive text messages.
 
 1. Open the Microsoft Edge and in the address bar enter **https://login.microsoft.com**.
 
@@ -87,8 +87,10 @@ In this task you, as user Sara Perez, will go through the registration process f
 
 1. A pop-up displays indicating that More information is required.  This is because as a member of the SSPRSecurityGroupUsers group, the configuration requires its members to register when they sign in.  Select the **Next** button.  Note:  An alternative to having users do the registration, themselves, is for admins to directly configure the authentication methods when they add a user. This requires admins to know and set the ​phone numbers and email addresses that users use to perform self-service password reset, and reset a user’s password.
 
-1. The “Keep your account secure” page opens.  The window that appears is for the Phone authentication method, if you don’t have a mobile device with you that is capable of receiving text messages, skip to the next step.  You're prompted to enter a phone number. Ensure the option **Text me a code** is enabled.   Enter the phone number where you can receive a text code and select the **Next button**.  A new window opens indicating a code was sent to the phone you entered.  Enter the code your received and select **Next**. A window opens indicating Success and showing your Default sign-in method.  Select **Done**.  
-    1. Alternatively, you can set up a different method as shown on the bottom left of the window.  If you choose to set up a different method, select **I want to set up a different method**, a pop-up window shows up, asking Which method would you like to use?  From the drop-down, select your preferred method, **Email**, then select the **Confirm** button.  Enter the email you would like to use then select **Next**.  A new window opens indicating a code was sent to the email you entered.  Access the email you entered to obtain the code.  Enter the code your received and select **Next**. A window opens indicating Success and showing your Default sign-in method.  Select **Done**.
+1. The “Keep your account secure” page opens.  The window that appears is for the Microsoft Authenticator method that requires the authenticator app.  For this lab, we will use a different method, to avoid the step of having to download the application.  Select **I want to use a different method**.
+    1. From the pop-up window that appears, select the drop-down arrow and select **Phone**, then selectd **Confirm**.
+    1. You're prompted to enter a phone number. Ensure the option **Receive a code** is enabled.   Enter the phone number where you can receive the code and select **Next**.  
+    1. A new window opens indicating a code was sent to the phone you entered.  Enter the code your received and select **Next**. A window opens that indicates the code was vierified. Select **Next** then select **Done**.  
 
 1. You can now complete your sign-in. If you see that your sign-in time has expired, just reenter the password.
 
@@ -110,7 +112,7 @@ In this task you, as user Sara Perez, will go through the process of resetting y
 
 1. In the empty box, enter the characters displayed in image or the words from the audio. Once you've entered them, select **Next**.
 
-1. The screen shows Get back into your account and shows Verification step 1 > choose a new password. Leave the default setting **Text my mobile phone**.  You're prompted to enter your mobile phone number.  Once you've entered it, select the **Text button**.  If during the registration you selected email, the Get back into your account window will that indicate you'll receive an email containing a verification code at your alternate email address.  Select **Email**.
+1. The screen shows Get back into your account and shows Verification step 1 > choose a new password. Leave the default setting **Text my mobile phone**.  You're prompted to enter your mobile phone number.  Once you've entered it, select the **Text button**. 
 
 1. Enter the verification code then press **Next**.
 
@@ -120,7 +122,7 @@ In this task you, as user Sara Perez, will go through the process of resetting y
 
 1. From the Pick an account information box, select **sara@WWLxZZZZZZ.onmicrosoft.com**, enter your new password, then select the **Sign in** button.  If you're prompted to Stay signed in. select **No**.
 
-1. You should now be in the Office portal.
+1. You should now be logged in to Sara's Microsoft account.
 
 1. Sign out by selecting on the user icon next to the email address on the top right corner of the screen and selecting **Sign out**. Then the close all the browser windows
 
