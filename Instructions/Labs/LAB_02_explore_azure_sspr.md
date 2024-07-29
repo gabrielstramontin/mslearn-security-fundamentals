@@ -43,15 +43,15 @@ In this task you, as the admin, will walk through the some of the available conf
 
 1. In the Number of methods required to rest, select **1**. Note the information box on the screen.
 
-1. Notice the different methods available to users.  **Email** and **Mobile phone (SMS only)** should already be checked; if not, select them.
+1. Notice the different methods available to users.  **Email** and **Mobile phone** should already be checked; if not, select them.
 
 1. From the left navigation panel of Password reset, select **Registration**.  
 
-1. Ensure the setting to Require users to register when signing in is set to **Yes**.  Leave the Number of days before users are asked to reconfirm their authentication information, to the default of 180.   Take note of the information box on the page.
+1. Ensure the setting to Require users to register when signing in is set to **Yes**.  Leave the Number of days before users are asked to reconfirm their authentication information, to the default of **180**.   Take note of the information box on the page.
 
 1. From the left navigation panel of Password reset, select **Notifications**.  
 
-1. Ensure the setting to Notify users on password resets is set to **Yes**.  Leave the setting for Notify all admins when other admins reset their password to No.
+1. Ensure the setting to Notify users on password resets is set to **Yes**.  Leave the setting for Notify all admins when other admins reset their password to **No**.
 
 1. Note how the Password reset navigation pane also includes options to view audit logs and Usage & insights.
 
@@ -87,10 +87,10 @@ In this task you, as user Sara Perez, will go through the registration process f
 
 1. A pop-up displays indicating that More information is required.  This is because as a member of the SSPRSecurityGroupUsers group, the configuration requires its members to register when they sign in.  Select the **Next** button.  Note:  An alternative to having users do the registration, themselves, is for admins to directly configure the authentication methods when they add a user. This requires admins to know and set the ​phone numbers and email addresses that users use to perform self-service password reset, and reset a user’s password.
 
-1. The “Keep your account secure” page opens.  The window that appears is for the Microsoft Authenticator method that requires the authenticator app.  For this lab, we will use a different method, to avoid the step of having to download the application.  Select **I want to use a different method**.
-    1. From the pop-up window that appears, select the drop-down arrow and select **Phone**, then selectd **Confirm**.
+1. The “Keep your account secure” page opens.  The window that appears is for the Phone method.
     1. You're prompted to enter a phone number. Ensure the option **Receive a code** is enabled.   Enter the phone number where you can receive the code and select **Next**.  
-    1. A new window opens indicating a code was sent to the phone you entered.  Enter the code your received and select **Next**. A window opens that indicates the code was vierified. Select **Next** then select **Done**.  
+    1. A new window opens indicating a code was sent to the phone you entered.  Enter the code your received and select **Next**. A window opens that indicates your phone was registered. Select **Next** then select **Done**.  
+    1. If you instead want to use email, select **I want to set up a different method** and follow the steps. 
 
 1. You can now complete your sign-in. If you see that your sign-in time has expired, just reenter the password.
 
